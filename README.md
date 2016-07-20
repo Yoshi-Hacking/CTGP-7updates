@@ -1,1 +1,1 @@
-version.txt requested by CTGP-7 manager to get lastest version, just that, anything else :P
+Updates for CTGP-7, used by CTGP-7 updater. Anything else :P

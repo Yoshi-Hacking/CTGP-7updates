@@ -5,7 +5,7 @@ function updateinfo(updinf)
 		return 3
 	elseif (updinf == 0) then
 		ver = "0.8.2"
-		changelog = {"+ Fixed 0.8 bug with N3DS","","+ Updated Miku's Birthday Spec."}
+		changelog = {"+ Fixed a bug with N3DS","","+ Updated Miku's Birthday Spec."}
 	elseif (updinf == 1) then
 		ver = "0.8.1"
 		changelog = {"+ Update needed to make 0.8 work properly."}

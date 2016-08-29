@@ -4,8 +4,8 @@ function updateinfo(updinf)
 	if (updinf == nil) then
 		return 6
 	elseif (updinf == 0) then
-		ver = "0.8.4"
-		changelog = {"+ Fixed some tracks online."}
+		ver = "0.8.5"
+		changelog = {"+ Fixed manager bugs", "+ Improved the updater", "","(New BootNTR version,","use BootNTR updater to update it.)"}
 	elseif (updinf == 1) then
 		ver = "0.8.4"
 		changelog = {"+ Fixed some tracks online."}

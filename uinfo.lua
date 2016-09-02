@@ -5,7 +5,7 @@ function updateinfo(updinf)
 		return 7
 	elseif (updinf == 0) then
 		ver = "0.9"
-		changelog = {"+ Added Elemental cave", "+ Added Banshee Broadwalk","","+ Updated Miku's Birthday Spec."}
+		changelog = {"+ Added Elemental Cave", "+ Added Banshee Broadwalk 2","","+ Updated Miku's Birthday Spec."}
 	elseif (updinf == 1) then
 		ver = "0.8.5"
 		changelog = {"+ Fixed manager bugs", "+ Improved the updater", "","(New BootNTR version,","use BootNTR updater to update it.)"}

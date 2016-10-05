@@ -5,7 +5,7 @@ function updateinfo(updinf)
 		return 9
 	elseif (updinf == 0) then
 		ver = "0.9.2"
-		changelog = {"+ Fixed Banshee Broadwalk 2 lag", "", "+ Added LED tricks plugin", "  (enable it from \"ingame settings\")", "", "+ Improved the manager"}
+		changelog = {"+ Fixed Banshee Broadwalk 2 lag", "", "+ Added LED tricks plugin", "  (enable it from ingame settings)", "", "+ Improved the manager"}
 	elseif (updinf == 1) then
 		ver = "0.9.1"
 		changelog = {"+ Added custom music to Concord Town."}

@@ -1,6 +1,6 @@
 
 array_changelog = {
-	{"+ Fixed GBA Cheese Land bug.", "+ Fixed SNES Ghost Valley 2 bug.", "","+ Implemented Nanquita's BootNTR","  into the manager."},
+	{"+ Fixed GBA Cheese Land bug.", "+ Fixed SNES Ghost Valley 2 bug.", "","+ Implemented Nanquitas' BootNTR","  into the manager."},
 	{"+ Fixed Banshee Broadwalk 2 lag.", "", "+ Added LED tricks plugin", "  (enable it from ingame settings).", "", "+ Improved the manager."},
 	{"+ Added custom music to Concord Town."},
 	{"+ Added Elemental Cave.", "+ Added Banshee Broadwalk 2.","","+ Updated Miku's Birthday Spec."},

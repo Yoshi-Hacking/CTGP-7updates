@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Added 11.1 support."}
 	{"+ Fixed GBA Cheese Land bug.", "+ Fixed SNES Ghost Valley 2 bug.", "","+ Implemented Nanquitas' BootNTR","  into the manager."},
 	{"+ Fixed Banshee Broadwalk 2 lag.", "", "+ Added LED tricks plugin", "  (enable it from ingame settings).", "", "+ Improved the manager."},
 	{"+ Added custom music to Concord Town."},

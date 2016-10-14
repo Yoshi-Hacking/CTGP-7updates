@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Updated 200cc plugin","  (adds support to all MK7 regions/versions).","","+ Fixed a bug when 200cc and led tricks","  were enabled at same time."},
 	{"+ Updated Miku's Birthday Spec.","","+ Updated 200cc plugin","  (autodetects game region/version).","","+ Reduced manager boot time."},
 	{"+ Added 11.1 support."},
 	{"+ Fixed GBA Cheese Land bug.", "+ Fixed SNES Ghost Valley 2 bug.", "","+ Implemented Nanquitas' BootNTR","  into the manager."},

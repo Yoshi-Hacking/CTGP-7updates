@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Manager bugfixes."},
 	{"+ Updated 200cc plugin","  (now supports all MK7 regions/versions).","","+ Fixed a bug when 200cc and led tricks","  were enabled at same time."},
 	{"+ Updated Miku's Birthday Spec.","","+ Updated 200cc plugin","  (autodetects game region/version).","","+ Reduced manager boot time."},
 	{"+ Added 11.1 support."},

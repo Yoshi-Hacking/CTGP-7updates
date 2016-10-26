@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Added 11.2 support."},
 	{"+ Fix N64 Frappe Snowland crash (again).","","+ Replaced smash loading icon with a", "  Mario Kart style animation."},
 	{"+ Manager bugfixes."},
 	{"+ Updated 200cc plugin","  (now supports all MK7 regions/versions).","","+ Fixed a bug when 200cc and led tricks","  were enabled at same time."},

@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Fixed a crash for N3DS users (notification", "  was being added with ntr loaded.)"}, 
 	{"+ Fix O3DS 11.2 support.", "+ Fix bugs related to NTR loading."},
 	{"+ Added 11.2 support."},
 	{"+ Fix N64 Frappe Snowland crash (again).","","+ Replaced smash loading icon with a", "  Mario Kart style animation."},

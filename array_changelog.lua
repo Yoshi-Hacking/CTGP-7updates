@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Fixed \"Failed Creating SSL Context\"."},
 	{"+ Fixed some repeating ingame text."},
 	{"+ Fixed a crash for N3DS users (notification", "  was being added with ntr loaded.)"}, 
 	{"+ Fix O3DS 11.2 support.", "+ Fix bugs related to NTR loading."},

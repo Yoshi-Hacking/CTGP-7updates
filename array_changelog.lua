@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Updated to OnionFS which allows", "  1.0 games to go online by downloading", "  1.1 patch from the eshop."},
 	{"+ Fixed \"Failed Creating SSL Context\"."},
 	{"+ Fixed some repeating ingame text."},
 	{"+ Fixed a crash for N3DS users (notification", "  was being added with ntr loaded.)"}, 

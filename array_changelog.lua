@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Bugfixes."},
 	{"+ Updated to OnionFS (bugfixes)."},
 	{"+ Fixed \"Failed Creating SSL Context\"."},
 	{"+ Fixed some repeating ingame text."},

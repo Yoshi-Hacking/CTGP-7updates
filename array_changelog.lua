@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Now gets updates from releases page."},
 	{"+ Bugfixes."},
 	{"+ Updated to OnionFS (bugfixes)."},
 	{"+ Fixed \"Failed Creating SSL Context\"."},

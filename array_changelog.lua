@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Added DS Yoshi Falls Custom Music.", "+ Added N64 Moo Moo Farm Custom Music."},
 	{"+ Now gets updates from releases page."},
 	{"+ Bugfixes."},
 	{"+ Updated to OnionFS (bugfixes)."},

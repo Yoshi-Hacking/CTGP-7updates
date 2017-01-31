@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Updated Bandicoot Team Kart."},
 	{"+ Removed 1st place beats.", "", "+ Updated N64 Frappe Snowland."},
 	{"+ Added DS Yoshi Falls Custom Music.", "+ Added N64 Moo Moo Farm Custom Music."},
 	{"+ Now gets updates from releases page."},

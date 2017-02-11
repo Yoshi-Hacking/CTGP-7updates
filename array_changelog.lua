@@ -1,6 +1,6 @@
 
 array_changelog = {
-	{"+ Added Gold Mantis Kart.", "+ Added Arcade Kart.", "+ Added MKDS Monster Tires.", "+ Updated Green/Red eggs to latest version.", "+ Added cc modifier plugin.", "+ Updated NTR 3.4 to Preview6.", " + Added 11.3 support.", "- Removed LED tricks plugin."},
+	{"+ Added Gold Mantis Kart.", "+ Added Arcade Kart.", "+ Added MKDS Monster Tires.", "+ Updated Green/Red eggs.", "+ Added cc modifier plugin.", "+ Updated NTR 3.4 to Preview6.", " + Added 11.3 support.", "- Removed LED tricks plugin."},
 	{"+ Improved the custom font."},
 	{"+ Updated Bandicoot Team Kart."},
 	{"+ Removed 1st place beats.", "", "+ Updated N64 Frappe Snowland."},

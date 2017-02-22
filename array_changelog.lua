@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Made the 1.1 update patch", "  compatible with CTGP-7.", "", "+ Added JPN MK7 text edits", "  (English only for now)."},
 	{"+ Added speedometer plugin,","  (can be enabled in \"Ingame settings\").", "", "- Dropped NTR 3.2 and 3.3 support."},
 	{"+ Added Silver Arrow Kart."},
 	{"+ Added Gold Mantis Kart.", "+ Added Arcade Kart.", "+ Added MKDS Monster Tires.", "+ Updated Green/Red eggs.", "+ Added cc modifier plugin.", "+ Updated NTR 3.4 to Preview6.", " + Added 11.3 support.", "- Removed LED tricks plugin."},

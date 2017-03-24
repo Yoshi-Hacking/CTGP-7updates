@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Updated OnionFS to latest version."},
 	{"+ Fixed menu edits to JPN game."},
 	{"+ Fixed lag caused by v0.12.3."},
 	{"+ Made the 1.1 update patch", "  compatible with CTGP-7.", "", "+ Added JPN MK7 text edits", "  (English only for now)."},

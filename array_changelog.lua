@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Updated OnionFS to latest version (again)."},
 	{"+ Updated OnionFS to latest version."},
 	{"+ Fixed menu edits to JPN game."},
 	{"+ Fixed lag caused by v0.12.3."},

@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Added 11.4 support (thanks to Nanquitas).", "+ Updated DS Yoshi Falls to its latest version."},
 	{"+ Updated OnionFS to latest version (again)."},
 	{"+ Updated OnionFS to latest version."},
 	{"+ Fixed menu edits to JPN game."},

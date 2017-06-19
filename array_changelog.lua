@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Updated SNES Mario Circuit 1."},
 	{"+ Updated GBA Bowser Castle 3", "  (fixes the random crashes).", "", "+ Fixed a bug where some tracks weren't", "  properly disabled online."},
 	{"+ Updated NTR to 3.5.", "", "- Using other BootNTR apps will no longer", "  work, the CTGP-7 app is now required", "  to launch the mod.", "+ You can use other BootNTR apps", "  to launch your own plugins,", "  CTGP-7 plugins are now in a different folder.", "", "+ Improved OnionFS speed.", "+ Minor bugfixes."},
 	{"+ Added 11.4 support (thanks to Nanquitas).", "+ Updated DS Yoshi Falls to its latest version."},

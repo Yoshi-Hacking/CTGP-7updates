@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Updated N64 Rainbow Road.", "+ Updated DS Cheep Cheep Beach."},
 	{"- Removed Coral Cape.", "+ Added DS Cheep Cheep Beach."},
 	{"+ Updated SNES Mario Circuit 1."},
 	{"+ Updated GBA Bowser Castle 3", "  (fixes the random crashes).", "", "+ Fixed a bug where some tracks weren't", "  properly disabled online."},

@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Fixed the downloader."},
 	{"+ Updated N64 Rainbow Road.", "+ Updated DS Cheep Cheep Beach."},
 	{"- Removed Coral Cape.", "+ Added DS Cheep Cheep Beach."},
 	{"+ Updated SNES Mario Circuit 1."},

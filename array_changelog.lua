@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"+ Improved the downloader speed.", "+ Added New 2DS support.", "+ NTR is now launched after", "  pressing \"Launch CTGP\"."},
 	{"Experimental features:", "+ Fixed some bugs with USA region.", "", " Note: If the speedometer doesn't work,", " remove the MK7 1.1 update from FBI.", "", "Normal features:", "+ Forgot to add the new tracks", " to the course manager."},
 	{"Experimental features (NTR):", "(have to be enabled from this app)", "", "+ Added a new plugin using CTRPF:", " + The new plugin opens with (Select)", " + CC Selector and Speedometer have", "   been moved to the new plugin.", " + Custom Tracks are automatically", "   disabled online.", " + Use the \"Allow Online Custom Tracks\"", "   option to play in the community.", "", "Normal features:", "", "+ Added Melody Sanctum.", "+ Added Castle Of Time.", "+ Replaced CT Canyon.", "  with Autumn Forest.", "", "+ Updated Shower Circuit.", "+ Updated GBA Sky Garden.", "+ Updated Concord Town.", "+ Updated N64 Mario Raceway.", "+ Updated Wii Wario\'s Gold Mine.", "+ Updated Evergreen Crossing.", "+ Updated Elemental Cave.", "", "+ Updated NTR to 3.6."},
 	{"+ Fixed the downloader."},

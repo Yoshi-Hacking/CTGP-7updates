@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"Experimental features:", "", "+ Fixed backwards camera and", "  speedometer.", "", "+ Fixed custom track names", "  not showing."},
 	{"Experimental features:", "", "+ Added backwards camera.", "", "Normal features:", "", "+ Added partial touch controls to the app.", "+ Minor bugfixes."},
 	{"+ Improved the downloader speed.", "+ Added New 2DS support.", "+ NTR is now launched after", "  pressing \"Launch CTGP\"."},
 	{"Experimental features:", "+ Fixed some bugs with USA region.", "", " Note: If the speedometer doesn't work,", " remove the MK7 1.1 update from FBI.", "", "Normal features:", "+ Forgot to add the new tracks", " to the course manager."},

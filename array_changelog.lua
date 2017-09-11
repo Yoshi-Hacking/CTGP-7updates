@@ -1,5 +1,6 @@
 
 array_changelog = {
+	{"Experimental features:", "", "+ Fixed backwards camera and", "  speedometer. (again)"},
 	{"Experimental features:", "", "+ Fixed backwards camera and", "  speedometer.", "", "+ Fixed custom track names", "  not showing."},
 	{"Experimental features:", "", "+ Added backwards camera.", "", "Normal features:", "", "+ Added partial touch controls to the app.", "+ Minor bugfixes."},
 	{"+ Improved the downloader speed.", "+ Added New 2DS support.", "+ NTR is now launched after", "  pressing \"Launch CTGP\"."},

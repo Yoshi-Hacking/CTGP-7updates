@@ -48,7 +48,7 @@ $1304 :: Swooper de Feu
 $700010 :: Coupe Cloche
 $710042 :: Village Concorde
 $710043 :: \uE031\uE032 Circuit Mario 1
-$710044 :: Chutes Galvarny
+$710044 :: Chûtes Galvarny
 $710045 :: \uE024\uE025 Jardin Volant
 
 $700011 :: Coupe Noisette
@@ -58,7 +58,7 @@ $710048 :: \uE022\uE023 Désert Kalimari Glacé
 $710049 :: \uE024\uE025 Château de Bowser 3
 
 $700012 :: Coupe Nuage
-$710050 :: Evergreen Crossing
+$710050 :: Traversée à Feuilles
 $710051 :: \uE026\uE027 Plage Peach
 $710052 :: Boulevard Bayside
 $710053 :: \uE022\uE023 Route Glagla
@@ -76,7 +76,7 @@ $710060 :: Égout Piranha
 $710061 :: \uE067 Mine d'Or de Wario
 
 $700015 :: Coupe Oeuf
-$710062 :: Elemental Cave
+$710062 :: Grotte Élémentaire
 $710063 :: \uE033 Cascades Yoshi
 $710064 :: Ville des Tempètes
 $710065 :: \uE033 Plage Aquazo
@@ -96,17 +96,17 @@ $710073 :: Spectacle Miku
 #Create new save data text
 %7005 :: Un fichier de sauvegarde pour\nCTGP-7 sera créé sur la\ncarte SD.
 %7003 :: Création du fichier\nde sauvegarde...
-%7004 :: Le fichier de sauvegarde\nest créé.
+%7004 :: Le fichier de sauvegarde\na été créé.
 
 ##Plugin text -----------------------------------------------
 
 #First opening welcome message
-welc_t :: Bienvenue à CTGP-7!
+welc_t :: Bienvenue sur CTGP-7 !
 welc_1 :: Salut!\nDepuis le menu en jeu,\nvous pouvez\nutiliser certaines fonctions avancées.\n\nPour ouvrir le menu,\nappuyez sur (SELECT).
 welc_2 :: Pour utiliser une fonctionnalité, placez le\ncurseur sur une entrée et\nappuyez sur A pour changer ses valeurs.
 welc_3 :: Pour connaitre la fonction d'une entrée, placez\nle curseur dessus\nand et touchez le bouton info ("i" bleu)\nsur l'écran tactile.
 welc_4 :: Souvenez-vous que certaines fonctions, \ncomme le "Sélécteur de CC", seront \ndésactivées en ligne.
-welc_5 :: Nous espérons que vous apprécierez le mod! ^ω^
+welc_5 :: Nous espérons que vous apprécierez le mod ! ^ω^
 
 #General text
 warning :: ATTENTION
@@ -119,26 +119,26 @@ exit :: Fermer
 
 
 #Error when an incorrect version is installed
-err_ver :: Cette version de Mario Kart 7\nn'est pas supportée! Assurez-vous que\nle patch 1.1 est installé.\n(Téléchargez-le sur l'eShop)\nVersion Détectée: v%d
+err_ver :: Cette version de Mario Kart 7\nn'est pas supportée ! Assurez-vous que\nle patch 1.1 est installé.\n(Téléchargez-le sur l'eShop)\nVersion Détectée: v%d
 
 #Error when the user has a card and a cia at the same time
-err_both :: Si vous ne jouez pas au mod\ndepuis la cartouche insérée, gardez-la\nenlevée pendant que vous jouez\nsur une copie digitale.\n(Un redémarrage est nessécaire.)
+err_both :: Si vous ne jouez pas au mod\ndepuis la cartouche insérée, gardez-la\nenlevée pendant que vous jouez\nsur une copie digitale.\n(Un redémarrage est nécessaire.)
 
 #Message shown when the user presses the home button
 err_home :: Menu \uE073 :: Le Menu \uE073 ne peut pas être ouvert.\nMaintenez le bouton \uE078 appuyé\npour éteindre la console.
 
 #Entries
-spdmeter :: Indicateur de Vitesse :: Montre un indicateur de vitesse au coin inférieur droit de l'écran du haut.
+spdmeter :: Compteur de Vitesse :: Montre un compteur de vitesse au coin inférieur droit de l'écran du bas.
 ccsel :: Sélecteur de CC :: Selectionne le CC des Karts à une certaine valeur (doit être activé avant la course).
 itemled :: Avertir des objets avec LED :: La LED de notification clignote en bleu quand une carapace à épines est utilisée et en jaune quand un éclair est utilisé.
 backcam :: Caméra arrière :: Appuyez sur \uE002 pour voir derrière vous, comme dans les autres Mario Kart! (Note: Le bouton \uE002 ne servira plus à utiliser les objets.)
 
 #Speedometer text
-spd_set :: Paramètres de l'indicateur de vitesse.
+spd_set :: Paramètres du compteur de vitesse.
 spd_unit :: Unité
 spd_type :: Type
-spd_sunit :: Sélectionnez l'unité pour l'indicateur de vitesse.
-spd_stype :: Sélectionnez le type d'indicateur de vitesse.
+spd_sunit :: Sélectionnez l'unité du compteur de vitesse.
+spd_stype :: Sélectionnez le type de compteur de vitesse.
 spd_types :: Numérique :: Graphique
 
 #CC Selector text
@@ -169,5 +169,5 @@ rnd_sel :: Sélectionne le nombre de tours.
 enhmap :: Améliorations pour la carte locale :: Ajoute des fonctions zoom sur la carte disponible sur \uE058 l'écran tactile.
 
 #CTWW
-cntdwn :: Countdown
-CTWWtog :: Would you like to activate\nCustom Tracks Worldwide? :: Would you like to disable\nCustom Tracks Worldwide?
+cntdwn :: Compte à rebours
+CTWWtog :: Voulez-vous activer les\ncircuits modifiés en ligne ? :: Voulez-vous disactiver les\ncircuits modifiés en ligne ?
